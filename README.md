@@ -1,3 +1,4 @@
+# Minimal Project for React template. Removed  all bootstraped JS/CSS
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
